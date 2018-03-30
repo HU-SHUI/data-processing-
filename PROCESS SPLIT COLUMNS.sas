@@ -1,5 +1,5 @@
  
-
+/*author: Jing Hu*/
 /*************************PROGRAM BEGIN ********************************************/
 
 /*STEP 1. count the maxium IDs*/
